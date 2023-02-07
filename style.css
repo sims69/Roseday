@@ -5,7 +5,8 @@ body, html {
     padding: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(to right, #e4069a ,#bc0be4)
+    background: linear-gradient(to right, #53efbe , #3b94ef);
+}
 
 h1{
   text-align: right;
@@ -35,7 +36,7 @@ p{
   font-family: "Montserrat", san-serif;
   font-weight: bold;
   font-size: 18px;
-  color: #f60c2f;
+  color: #64b5ce;
   text-transform: uppercase;
   text-align: center;
   width: 100px;
